@@ -1,11 +1,11 @@
 {
   "Exit": [
     {
-      "icon_promote": "https://play-lh.googleusercontent.com/3pf26YI4SRN_Uk72hQeHJHbv57xOKOVEThflyjzoM6OegOxEolE8lGCImYz7DC9bv4w=w240-h480-rw",
-      "judul_promote": "Stack Ball - Crash Platforms",
-      "deskripsi_promote": "Try Now! Stack Ball",
-      "gambar_promote": "https://play-lh.googleusercontent.com/3pf26YI4SRN_Uk72hQeHJHbv57xOKOVEThflyjzoM6OegOxEolE8lGCImYz7DC9bv4w=w240-h480-rw"",
-      "link_promote": "https://play.google.com/store/apps/details?id=com.azurgames.stackball"
+      "icon_promote": "https://play-lh.googleusercontent.com/UNU5RHwQHMKZvyl_Dnww1WZA6V4ukt66m6IV-XCCqyAyEgFgPVarYte-MxkR3IFS_jM=w240-h480-rw",
+      "judul_promote": "Anya Wallpaper",
+      "deskripsi_promote": "Try Now! Anya Forger Wallpaper",
+      "gambar_promote": "https://tyrannoz.com/dev/alicalily/ads/anya.jpg",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.alicalily.anya_wallpaper"
     }
   ],
   "More": [
@@ -14,6 +14,78 @@
       "title": "Pastel Aesthetic Wallpaper",
       "image": "https://play-lh.googleusercontent.com/SuBjJjdGNwRydAjY_uA8mSZXQh0rMWPHr3IxrPWH_oc0-TDUbPI7lLOs3k1QvyKne8ot=w526-h296-rw",
       "link": "https://play.google.com/store/apps/details?id=com.alicalily.pastel_aesthetic_wallpaper"
+    },
+    {
+      "id": 2,
+      "title": "Purple Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/184VS6Zd_ZOTG3Q5Gf0OgulZ48ePKqx82d-4hN0vuC2GCnUY0AjBfhdxAkRRyTcwXnZ1=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.purple_aesthetic_wallpaper"
+    },
+    {
+      "id": 3,
+      "title": "Black White Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/Kexms4Me5vzKo23g9ofeTWzy1vykdzdmkgDesxdD5lGTb1qc_Q3mEOsOX2SV4zXYaoXY=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.black_white_aesthetic_wallpaper"
+    },
+    {
+      "id": 4,
+      "title": "Anime Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/phkNXG_c2hGt4ODf7tZuo_GUwdAOoiTa_ZU41YhoM6SdKxbXt9Iz1eGngvhgdMBahxc=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.anime_aesthetic_wallpaper"
+    },
+    {
+      "id": 5,
+      "title": "Dark Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/EksA4-lKqESptsGjETr61jaqlFb4Qf1uXWAVY7G1ekgz-7gg1wnO_l05lMuMPiWS_yI=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.dark_aesthetic_wallpaper"
+    },
+    {
+      "id": 6,
+      "title": "Red Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/Nuy1J6qkGnWLczgrBGhZM0TUtQrYfvSCdlnLvdsfTUPNBiflTuRhcJJs0OKUlO0gpD0=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.red_aesthetic_wallpaper"
+    },
+    {
+      "id": 7,
+      "title": "Black Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/UgP4K3nGrYb2wQMLgeMzrgW7mrVlW1xa8g0g8We_OPFBBMO1T38HkuY3567587fVsZg=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.black_aesthetic_wallpaper"
+    },
+    {
+      "id": 8,
+      "title": "Brown Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/JSp3LWyfN_Mt1FCwl1XgYpZNRuhoYUlOaJh1ygzswK4MLjMNtikzNtrW7G70d31KbQ=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.brown_aesthetic_wallpaper"
+    },
+    {
+      "id": 9,
+      "title": "Yellow Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/MaiD6YfD6YGntiuZV4bs-UFJdhJ30QJax87F0PDYBg3d7zxauvbfQQZMZkq0g1e1q70=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.yellow_aesthetic_wallpaper"
+    },
+    {
+      "id": 10,
+      "title": "Blue Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/AYvCeGLfxh1bvgqMCRr252BpQw-GFqQF8Sdw94qz5sBij0XE9phEUkf57rMAHSx-cno=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.blue_aesthetic_wallpaper"
+    },
+    {
+      "id": 11,
+      "title": "Green Aesthetic Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/vFUvifkFIb2u-nF2H0D6SKV1SvmmZkHj83Rxik8FxPi2nO8xeC_Ltpdo4-5SaVMy-gFZ=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.green_aesthetic_wallpaper"
+    },
+    {
+      "id": 12,
+      "title": "Graffiti Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/Iwl5o4O7SNlTuHM4xdzzyns9W3aYPiI7Cm9_OzssfVwes0N8Rnqnk_4yaIzFz_FLmME=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.grafity_wallpaper"
+    },
+    {
+      "id": 13,
+      "title": "Anya Forger Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/dTntP5xL3ohcl9PdQJgH2o4fP6hA7E9shFsZiiHRdNkyoZWvaOheH0j3ZtjDUcXAolc=w526-h296-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.alicalily.anya_wallpaper"
     }
   ]
 }
